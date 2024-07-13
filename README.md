@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CreaGab
 - 👀 I’m interested in Computer, OS's, Windows, Linux, Exploiting software
-- 🌱 I’m currently learning how to work with linux terminal and python
+- 🌱 I’m currently learning how to work with linux and python
 - 💞️ I’m looking to collaborate on nothing atm
 - 📫 How to reach me: The creative Gab#5883 (Discord) u/CreaGab1 (Reddit)
 
